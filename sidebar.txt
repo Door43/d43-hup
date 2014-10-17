@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hup:home|Door43 (hup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hup|d43-hup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hup/archive/master.zip|d43-hup.zip]]
+
+**Recent Changes**
+{{changes>ns = hup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hup|Ethnologue data]]
+
